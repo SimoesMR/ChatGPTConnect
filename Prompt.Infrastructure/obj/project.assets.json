@@ -560,11 +560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\Prompt.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Infrastructure\\Prompt.Infrastructure.csproj",
       "projectName": "Prompt.Infrastructure",
-      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\Prompt.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Infrastructure\\Prompt.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -581,8 +581,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj": {
-              "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj"
+            "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj": {
+              "projectPath": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj"
             }
           }
         }

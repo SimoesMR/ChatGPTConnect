@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qYvOHjyQZDR4Qtzz32JgaUv8JqFrinXZLTYqWQQnk7WoStRY9YXuZBcq1xHZ5V7jMhm72OGnL4NWB7KZ9D2PBA==",
+  "dgSpecHash": "+ulDVfx0vpe7Vfj6ftqyFhHV6SQ2mO6KkK+JKTFv/qwFB6iSGXSSBrVWf+8SHlCsM0HtvXhT/C72jVr8xBvjYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

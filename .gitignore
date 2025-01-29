@@ -131,3 +131,11 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# Arquivos do VS Code e OmniSharp
+.vscode/
+*.asset.json
+
+# Cache do NuGet
+.nuget/
+*.nuget.cache

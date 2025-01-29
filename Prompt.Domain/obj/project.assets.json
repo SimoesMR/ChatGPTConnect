@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj",
       "projectName": "Prompt.Domain",
-      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj",
+      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Domain\\Prompt.Domain.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",

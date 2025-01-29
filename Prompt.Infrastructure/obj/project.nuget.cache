@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "85/l2deIrmMkQAWW7gUL1zE4BrOQWzgczNfeQvnqkNi69ORvF+wZpaWu1CfMG5HYxorgHVSqSS6xuJpqnnQSNw==",
+  "dgSpecHash": "hOdc2BXVqyqHijaIlsObRgTxrB/WNTyVmrrisSoH2xEWePX/gil8SDp+y793LFOfNWe6qDEbdRlY4YG0888Zrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodrigo\\Desktop\\Nova pasta\\PromptApi\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\Prompt.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Rodrigo\\Desktop\\PromptApi\\Prompt.Infrastructure\\Prompt.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
     "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
