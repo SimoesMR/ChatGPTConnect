@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F093838-EA43-4204-ACD1-5DDC5611BAAA}|Prompt.Infrastructure\\Prompt.Infrastructure.csproj|c:\\users\\rodrigo.simoes\\desktop\\backup\\estudos\\promptapi\\promptapi\\promptapi\\prompt.infrastructure\\service\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F093838-EA43-4204-ACD1-5DDC5611BAAA}|Prompt.Infrastructure\\Prompt.Infrastructure.csproj|solutionrelative:prompt.infrastructure\\service\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F093838-EA43-4204-ACD1-5DDC5611BAAA}|Prompt.Infrastructure\\Prompt.Infrastructure.csproj|c:\\users\\rodrigo.simoes\\desktop\\backup\\estudos\\promptapi\\promptapi\\promptapi\\prompt.infrastructure\\infrastructuredependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F093838-EA43-4204-ACD1-5DDC5611BAAA}|Prompt.Infrastructure\\Prompt.Infrastructure.csproj|solutionrelative:prompt.infrastructure\\infrastructuredependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F093838-EA43-4204-ACD1-5DDC5611BAAA}|Prompt.Infrastructure\\Prompt.Infrastructure.csproj|c:\\users\\rodrigo.simoes\\desktop\\backup\\estudos\\promptapi\\promptapi\\promptapi\\prompt.infrastructure\\openai\\openaiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F093838-EA43-4204-ACD1-5DDC5611BAAA}|Prompt.Infrastructure\\Prompt.Infrastructure.csproj|solutionrelative:prompt.infrastructure\\openai\\openaiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5745C2C6-CE53-45B3-BDE5-07FEBD53167A}|Prompt.Api1\\Prompt.Api1.csproj|c:\\users\\rodrigo.simoes\\desktop\\backup\\estudos\\promptapi\\promptapi\\promptapi\\prompt.api1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5745C2C6-CE53-45B3-BDE5-07FEBD53167A}|Prompt.Api1\\Prompt.Api1.csproj|solutionrelative:prompt.api1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5745C2C6-CE53-45B3-BDE5-07FEBD53167A}|Prompt.Api1\\Prompt.Api1.csproj|c:\\users\\rodrigo.simoes\\desktop\\backup\\estudos\\promptapi\\promptapi\\promptapi\\prompt.api1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5745C2C6-CE53-45B3-BDE5-07FEBD53167A}|Prompt.Api1\\Prompt.Api1.csproj|solutionrelative:prompt.api1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 654,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenAIService.cs",
+              "DocumentMoniker": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\Service\\OpenAIService.cs",
+              "RelativeDocumentMoniker": "Prompt.Infrastructure\\Service\\OpenAIService.cs",
+              "ToolTip": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\Service\\OpenAIService.cs",
+              "RelativeToolTip": "Prompt.Infrastructure\\Service\\OpenAIService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:41:31.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenAiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\OpenAi\\OpenAiConfig.cs",
+              "RelativeDocumentMoniker": "Prompt.Infrastructure\\OpenAi\\OpenAiConfig.cs",
+              "ToolTip": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\OpenAi\\OpenAiConfig.cs",
+              "RelativeToolTip": "Prompt.Infrastructure\\OpenAi\\OpenAiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:43:15.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Api1\\appsettings.json",
+              "RelativeDocumentMoniker": "Prompt.Api1\\appsettings.json",
+              "ToolTip": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Api1\\appsettings.json",
+              "RelativeToolTip": "Prompt.Api1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T00:42:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfrastructureDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "RelativeDocumentMoniker": "Prompt.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "RelativeToolTip": "Prompt.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:38:17.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Api1\\Program.cs",
+              "RelativeDocumentMoniker": "Prompt.Api1\\Program.cs",
+              "ToolTip": "C:\\Users\\rodrigo.simoes\\Desktop\\BACKUP\\Estudos\\PromptApi\\PromptApi\\PromptApi\\Prompt.Api1\\Program.cs",
+              "RelativeToolTip": "Prompt.Api1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:38:14.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

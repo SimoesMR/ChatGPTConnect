@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Prompt.Api1.props" />
+</Project>
