@@ -57,6 +57,12 @@ ipch/
 *.vsp
 *.vspx
 
+metadata.v7.bin
+projects.v7.bin
+dtbcache.v2
+.suo
+documentlayout.json
+
 # Guidance Automation Toolkit
 *.gpState
 
